@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.sqlite3
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code, PyCharm and IDE configs
+.vscode/
+.idea/
+
+# Data
+data/
+digits/
+
+# Model checkpoints
+*.pt
+
+# Ignore everything except Python scripts
+!*.py
